@@ -80,11 +80,12 @@ $ cd zlib-ng-2.2.2
 
 ## RuyiSDK IDE：
 
-​	RuyiSDk IDE的下载地址https://mirror.iscas.ac.cn/ruyisdk/ide 的正确链接应该为https://mirror.iscas.ac.cn/ruyisdk/ide/。
+​	RuyiSDk IDE的下载地址https://mirror.iscas.ac.cn/ruyisdk/ide 的正确链接应该为https://mirror.iscas.ac.cn/ruyisdk/ide/
 
 ## 附加
 
 ​	新手刚开始接触搭载 Ruyi 系统时，通常会通过 MobaXterm 以 SSH 命令行的方式远程操作开发板；但目前针对如何用命令行，完成不同开发板基础配置，如环境搭建、文件传输、程序编译的示例教程较少，建议补充这类 “远程命令行操作开发板” 的基础教程，帮助新手快速上手。
+
 
 
 
